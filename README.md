@@ -4,5 +4,5 @@ In each document, there are pictures that are provided of what I attempted for e
 List of Projects:
     1. Technical Breif
     2. Rekall Penetration Testing
-    3.
+    3. Defensive Security Project
     4.
